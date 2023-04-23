@@ -5,4 +5,5 @@ This is just an instance for practising
 Progress saved?
 Maybe
 maybe not
+or maybe this hasn't been initialised
 
